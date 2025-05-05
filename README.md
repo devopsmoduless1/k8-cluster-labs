@@ -3,7 +3,7 @@ This repository contains instructions to create kubernetes cluster using kind an
 
 ## Docker Desktop - Enable K8's cluster
 1. Install Docker desktop following instructions mentioned https://docs.docker.com/desktop/setup/install/mac-install/
-2. Enable Kubernetes cluster Settings --> Kubernetes --> Enable
+2. Enable Kubernetes cluster by navigating to Settings --> Kubernetes --> Enable
 
 
 ## Kind Create K8's cluster
